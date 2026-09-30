@@ -622,29 +622,29 @@ INSERT INTO raza VALUES (10, 'Sphynx');
 
 -- GATO
 
-INSERT INTO gato VALUES (1, 'Borges',  'M', 'Naranjo',     DATE '2019-03-12', DATE '2021-05-01', 1);
+INSERT INTO gato VALUES (1, 'Nana',  'H', 'Atigrado Blanco',     DATE '2019-03-12', DATE '2021-05-01', 1);
 
-INSERT INTO gato VALUES (2, 'Mistral',  'H', 'Blanco',      DATE '2020-07-22', DATE '2021-05-01', 5);
+INSERT INTO gato VALUES (2, 'Trex',  'M', 'Blanco',      DATE '2020-07-22', DATE '2021-05-01', 5);
 
-INSERT INTO gato VALUES (3, 'Neruda',  'M', 'Negro',      DATE '2018-11-02', DATE '2021-08-15', 1);
+INSERT INTO gato VALUES (3, 'Amira',  'H', 'Negro con Blanco',      DATE '2018-11-02', DATE '2021-08-15', 1);
 
-INSERT INTO gato VALUES (4, 'Rayuela',  'H', 'Tricolor',     DATE '2021-01-30', DATE '2022-02-10', 1);
+INSERT INTO gato VALUES (4, 'Pandora',  'H', 'Carey Negro',     DATE '2021-01-30', DATE '2022-02-10', 1);
 
-INSERT INTO gato VALUES (5, 'Asimov',  'M', 'Gris',       DATE '2020-04-18', DATE '2022-06-20', 8);
+INSERT INTO gato VALUES (5, 'Naruto',  'M', 'Blanco',       DATE '2020-04-18', DATE '2022-06-20', 8);
 
-INSERT INTO gato VALUES (6, 'Tinta',   'H', 'Negro',      DATE '2022-09-05', DATE '2023-01-12', 1);
+INSERT INTO gato VALUES (6, 'Huachimingo',   'M', 'Negro',      DATE '2022-09-05', DATE '2023-01-12', 1);
 
-INSERT INTO gato VALUES (7, 'Polilla',  'M', 'Atigrado gris',  DATE '2021-06-14', DATE '2023-03-03', 1);
+INSERT INTO gato VALUES (7, 'Molly',  'H', 'Americano',  DATE '2021-06-14', DATE '2023-03-03', 1);
 
-INSERT INTO gato VALUES (8, 'Canela',  'H', 'Cafe claro',    DATE '2022-02-27', DATE '2023-07-19', 2);
+INSERT INTO gato VALUES (8, 'Canela',  'H', 'Tricolor',    DATE '2022-02-27', DATE '2023-07-19', 2);
 
-INSERT INTO gato VALUES (9, 'Tolkien',  'M', 'Cafe atigrado',  DATE '2019-12-01', DATE '2023-10-08', 4);
+INSERT INTO gato VALUES (9, 'Morocha',  'H', 'Azul Ruso',  DATE '2019-12-01', DATE '2023-10-08', 4);
 
-INSERT INTO gato VALUES (10, 'Pelusa',  'H', 'Gris y blanco',  DATE '2023-04-10', DATE '2024-01-25', 3);
+INSERT INTO gato VALUES (10, 'Maki',  'H', 'Carey Gris',  DATE '2023-04-10', DATE '2024-01-25', 3);
 
 INSERT INTO gato VALUES (11, 'Cortazar', 'M', 'Blanco y negro',  DATE '2022-08-19', DATE '2024-05-30', 9);
 
-INSERT INTO gato VALUES (12, 'Hojarasca', 'H', 'Naranjo atigrado', DATE '2024-02-14', DATE '2025-03-01', 6);
+INSERT INTO gato VALUES (12, 'Jaspeao', 'H', 'Naranjo atigrado', DATE '2024-02-14', DATE '2025-03-01', 6);
 
 
 -- ALIMENTO (precio por porcion)
