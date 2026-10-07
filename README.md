@@ -15,6 +15,7 @@ El sistema esta modelado en 3FN y cuenta con objetos procedurales encargados de 
   * Aolani Caiguan
   * Felipe Barra
   * Renata Orellana
+  * Isidora Díaz
 
 ---
 
